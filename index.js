@@ -1,0 +1,1 @@
+window.alert("welcome here you will learn about Zion's life feel free play our game at the end")

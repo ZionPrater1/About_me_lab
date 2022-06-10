@@ -61,3 +61,57 @@ if (Answer5 == guess5) {
   else if (guess5 == "No") {
     alert("No is incorrect")
   }
+  for (let z = 1; z <= 4; z++){
+let guess6 = prompt("Barry Sanders is number _ in my top ten running backs list")
+let Answer6 = "4"
+ if(Answer6 == guess6){
+     window.alert("4 is correct")
+     break;
+ }
+ else { guess6 < 4;
+    alert("too low");
+  }
+}
+for (let z = 1; z <= 6; z++){
+    let guess7 = prompt("Can you name one of top two running backs ?")
+    let RB =["Walter Payton"|| "Emmitt Smith"]
+    let Answer7 = RB
+    if (Answer7 == guess7){
+    window.alert("That is correct")
+    break;
+    }
+    else {Answer7
+    window.alert("That is incorrect try again")
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

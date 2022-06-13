@@ -1,4 +1,46 @@
-html,
+html, body {
+    height: 80%;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+  
+    
+      
+    }
+  
+    
+  
+  header{
+    width:100%;
+    height: 100px;
+    font-weight: bold;
+    text-align: left;
+    background:#84f06f;
+    transition: 0.3s;
+    color:#fff;
+    padding:2px;
+  }
+  footer{
+    width:100%;
+    height: 30px;
+    font-weight: bold;
+    text-align: left;
+    background:#84f06f;
+    transition: 0.3s;
+    color:#fff;
+    padding:20px;
+    
+  }
+  .Home{ text-align: left;}
+  .AboutMe{ text-align: left;}
+  .LetsPlay{ text-align: left;}
+ 
+  
+  body {
+    background: #33CCCC; /* Fallback */
+    animation: color 9s infinite linear;
+    padding: 2em;
+  }
 
 
 
